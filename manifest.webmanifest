@@ -1,0 +1,16 @@
+{
+  "name": "Lessenaar",
+  "short_name": "Lessenaar",
+  "description": "Bladmuziek-lezer en oefenlog",
+  "lang": "nl",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#16181A",
+  "theme_color": "#16181A",
+  "icons": [
+    { "src": "icon-180.png", "sizes": "180x180", "type": "image/png" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ]
+}
